@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 Hello there ! <br><br>💻 Bioinformatics student ! <br>🧬 Currently working on mCRC project !
 
